@@ -52,7 +52,7 @@ export const sinlefilter = [
     },
     {
         id: "disccout",
-        name: "disccout Range",
+        name: "disccount Range",
         options: [
             {value: "20", label: "20% And Above"},
             {value: "30", label: "30% And Above"},
